@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "sender": "alice@company.com",
+        "type": "leave_request"
+    },
+    {
+        "id": 3,
+        "sender": "charlie@client.com",
+        "type": "leave_request"
+    },
+    {
+        "id": 5,
+        "sender": "emma@company.com",
+        "type": "leave_request"
+    },
+    {
+        "id": 7,
+        "sender": "grace@company.com",
+        "type": "leave_request"
+    },
+    {
+        "id": 9,
+        "sender": "ivy@company.com",
+        "type": "leave_request"
+    }
+]
